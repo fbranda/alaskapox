@@ -2,7 +2,7 @@
 
 ## Contents
 
-This repository aims to provide decision makers, researchers, and the public with comprehensive and timely data on the Alaskapox virus, including confirmed, suspected, and discarded cases. The data are collected from official sources such as public health laboratories and government agencies and are presented in a structured format to enable accurate analysis and detailed understanding of the Alaskapox outbreak situation. The repository is updated regularly to ensure access to up-to-date and reliable information. We hope that these data will be useful in informing public health decisions and in supporting research on the epidemiology and control of infectious diseases.
+This repository aims to provide decision makers, researchers, and the public with comprehensive and timely data on the Alaskapox virus, including confirmed, suspected, and discarded cases. The data are collected from official sources such as [government agencies](https://health.alaska.gov/dph/Epi/id/Pages/Alaskapox.aspx) and are presented in a structured format to enable accurate analysis and detailed understanding of the Alaskapox outbreak situation. The repository is updated regularly to ensure access to up-to-date and reliable information. We hope that these data will be useful in informing public health decisions and in supporting research on the epidemiology and control of infectious diseases.
 
 ## Getting the data
 

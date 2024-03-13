@@ -29,7 +29,7 @@ If you want to send data to us, you can use our template at [data dictionary](da
 it easier for us to add to our list. Just open an issue and attach a CSV / XLSX file in this repository,
 or email data to francesco.branda.contact@gmail.com. Remove any Personally Identifiable Information.
 
-## For more information about Alaskapox:
+## For more information about Alaskapox
 
 Please see our information page dedicated to [Alaskapox](https://tinyurl.com/alaskapox). Here you will find in-depth details about the disease, including symptoms, diagnosis, treatment, and recommendations.
 
